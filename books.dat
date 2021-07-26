@@ -1,0 +1,12 @@
+[
+    {
+        "id": "1",
+        "name": "1",
+        "Description": "1",
+        "isbn": "1",
+        "page_count": 1,
+        "issued": false,
+        "author": "1",
+        "year": 1
+    }
+]
